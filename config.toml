@@ -26,5 +26,4 @@ disableKinds=["taxnomy"]
   # services like Twitter or Slack want to generate a preview of a link to your site.
   # See https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph.
-  images = ["images/share.png"]
 
