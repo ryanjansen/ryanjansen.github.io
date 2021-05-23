@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://ryanjansen.me/images/favicon.png" />
+<title>Computer Science | Ryan Jansen | CS Student</title>
+<meta name="title" content="Computer Science" />
+<meta name="description" content="This is where I put all my notes from CS in the hope of helping others who might need them.
+Main Areas of CS There are a few core areas of CS which the NUS curriculum follows:
+ Programming  This includes programming paradigms like functional programming, OOP, etc. Also has interesting stuff like recursion, abstraction, and how to approach problems in a way that a computer would.
+Computer Architecture  How computers work." />
+<meta name="keywords" content="" />
+
+
+<meta property="og:title" content="Computer Science" />
+<meta property="og:description" content="This is where I put all my notes from CS in the hope of helping others who might need them.
+Main Areas of CS There are a few core areas of CS which the NUS curriculum follows:
+ Programming  This includes programming paradigms like functional programming, OOP, etc. Also has interesting stuff like recursion, abstraction, and how to approach problems in a way that a computer would.
+Computer Architecture  How computers work." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ryanjansen.me/computer-science/" /><meta property="og:image" content="https://ryanjansen.me/images/share.png"/><meta property="article:section" content="" />
+
+<meta property="og:site_name" content="Ryan Jansen | CS Student" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://ryanjansen.me/images/share.png"/>
+
+<meta name="twitter:title" content="Computer Science"/>
+<meta name="twitter:description" content="This is where I put all my notes from CS in the hope of helping others who might need them.
+Main Areas of CS There are a few core areas of CS which the NUS curriculum follows:
+ Programming  This includes programming paradigms like functional programming, OOP, etc. Also has interesting stuff like recursion, abstraction, and how to approach problems in a way that a computer would.
+Computer Architecture  How computers work."/>
+
+
+
+<meta itemprop="name" content="Computer Science">
+<meta itemprop="description" content="This is where I put all my notes from CS in the hope of helping others who might need them.
+Main Areas of CS There are a few core areas of CS which the NUS curriculum follows:
+ Programming  This includes programming paradigms like functional programming, OOP, etc. Also has interesting stuff like recursion, abstraction, and how to approach problems in a way that a computer would.
+Computer Architecture  How computers work.">
+
+<meta itemprop="wordCount" content="244"><meta itemprop="image" content="https://ryanjansen.me/images/share.png"/>
+<meta itemprop="keywords" content="" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: initial;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+<style>
+    @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 200;
+      font-display: swap;
+      src: url(https://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfAZ9hiA.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(https://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiA.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+        @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 700;
+      font-display: swap;
+      src: url(https://fonts.gstatic.com/s/inter/v3/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hiA.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    body {
+        font-family: 'Inter', Verdana, sans-serif;
+    }
+</style>
+</head>
+
+<body>
+  <header><a href="/" class="title">
+  <h2>Ryan Jansen | CS Student</h2>
+</a>
+<nav><a href="/">Home</a>
+
+<a href="/computer-science/">Computer Science</a>
+
+
+<a href="/blog">Blog</a>
+
+</nav>
+</header>
+  <main>
+
+<content>
+  <p>This is where I put all my notes from CS in the hope of helping others who might need them.</p>
+<h1 id="main-areas-of-cs">Main Areas of CS</h1>
+<p>There are a few core areas of CS which the NUS curriculum follows:</p>
+<ol>
+<li>Programming</li>
+</ol>
+<p>This includes programming paradigms like functional programming, OOP, etc. Also has interesting stuff like recursion, abstraction, and how to approach problems in a way that a computer would.</p>
+<ol start="2">
+<li>Computer Architecture</li>
+</ol>
+<p>How computers work. The world of CPUs, RAM, NAND Gates and other fun stuff. One of the more difficult areas of CS IMO.</p>
+<ol start="3">
+<li>Math</li>
+</ol>
+<p>Mostly discrete math, with some linear algebra and calculus lumped in. Consists of proofs, graphs, recursions, functions and loads more.</p>
+<ol start="4">
+<li>Algorithms and Data Structures</li>
+</ol>
+<p>This is where the fun begins. Using the power of computers to solve problems blazingly fast. Also very important in coding interviews, so has implications for your future career.</p>
+<ol start="5">
+<li>Networking</li>
+</ol>
+<p>The internet is more complicated than it seems. Commonly represented in 5 layers, the physical, link, network, transport and application layers. Common protocols such as IP, TCP, IMAP, MAC and Ethernet are found here.</p>
+<ol start="6">
+<li>Operating Systems</li>
+</ol>
+<p>The thing that runs on your computer and lets you actually use it. How a kernel manages everything and stuff.</p>
+<ol start="7">
+<li>Compilers and Programming Languages</li>
+</ol>
+<p>Wrting programs that write programs</p>
+<ol start="8">
+<li>Everything else</li>
+</ol>
+<p>Databases, automata theory, AI, Machine Learning, Data Science, the list goes on&hellip;</p>
+<p>I will update this page with notes and resources over time, so make sure to check back in regularly!</p>
+
+</content>
+<p>
+  
+</p>
+
+  </main>
+  <footer>Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>

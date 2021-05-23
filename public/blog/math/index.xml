@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Ryan Jansen | CS Student</title>
-    <link>https://ryanjansen.me/blog/</link>
-    <description>Recent content in Blog on Ryan Jansen | CS Student</description>
+    <title>math on Ryan Jansen | CS Student</title>
+    <link>https://ryanjansen.me/blog/math/</link>
+    <description>Recent content in math on Ryan Jansen | CS Student</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright @ 2021 Ryan Jansen</copyright>
-    <lastBuildDate>Mon, 17 May 2021 20:23:06 +0800</lastBuildDate><atom:link href="https://ryanjansen.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 20:23:06 +0800</lastBuildDate><atom:link href="https://ryanjansen.me/blog/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning Math</title>
       <link>https://ryanjansen.me/learning-math/</link>
@@ -17,17 +17,6 @@
       <description>Why is math so hard.
 What I&amp;rsquo;m Learning I&amp;rsquo;m starting to learn some discrete math in preparation for my CS course. Even though I&amp;rsquo;ve been learning for almost a year, the sporadic nature of my studying has really hindered my ability to retain concepts.
 More specfically, I&amp;rsquo;m going through this great discrete math book that I found online called The Book of Proofs. It&amp;rsquo;s a really simple and straightforward introduction to discrete math and I recommend it to anyone that is interested (or forced to study) this topic.</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://ryanjansen.me/markdown-syntax-guide/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ryanjansen.me/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
   </channel>

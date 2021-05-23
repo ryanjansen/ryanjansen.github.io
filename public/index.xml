@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright @ 2021 Ryan Jansen</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ryanjansen.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 20:23:06 +0800</lastBuildDate><atom:link href="https://ryanjansen.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Math</title>
+      <link>https://ryanjansen.me/learning-math/</link>
+      <pubDate>Mon, 17 May 2021 20:23:06 +0800</pubDate>
+      
+      <guid>https://ryanjansen.me/learning-math/</guid>
+      <description>Why is math so hard.
+What I&amp;rsquo;m Learning I&amp;rsquo;m starting to learn some discrete math in preparation for my CS course. Even though I&amp;rsquo;ve been learning for almost a year, the sporadic nature of my studying has really hindered my ability to retain concepts.
+More specfically, I&amp;rsquo;m going through this great discrete math book that I found online called The Book of Proofs. It&amp;rsquo;s a really simple and straightforward introduction to discrete math and I recommend it to anyone that is interested (or forced to study) this topic.</description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://ryanjansen.me/markdown-syntax-guide/</link>
@@ -20,26 +31,15 @@
     </item>
     
     <item>
-      <title>Bear</title>
-      <link>https://ryanjansen.me/bear/</link>
+      <title>Computer Science</title>
+      <link>https://ryanjansen.me/computer-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ryanjansen.me/bear/</guid>
-      <description>Bear Website: https://bearblog.dev
-There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.
-Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on any viewing device. All you need to focus on is writing good content.
-Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and optimized for search engines.</description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://ryanjansen.me/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ryanjansen.me/hugo/</guid>
-      <description>Hugo Website: https://gohugo.io
-Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification, and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:</description>
+      <guid>https://ryanjansen.me/computer-science/</guid>
+      <description>This is where I put all my notes from CS in the hope of helping others who might need them.
+Main Areas of CS There are a few core areas of CS which the NUS curriculum follows:
+ Programming  This includes programming paradigms like functional programming, OOP, etc. Also has interesting stuff like recursion, abstraction, and how to approach problems in a way that a computer would.
+Computer Architecture  How computers work.</description>
     </item>
     
   </channel>
