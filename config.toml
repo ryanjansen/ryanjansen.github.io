@@ -3,7 +3,7 @@ languageCode = "en-us"
 
 theme = 'hugo-bearblog'
 
-title = "Ryan Jansen | CS Student"
+title = "Ryan Jansen"
 author = "Ryan Jansen"
 copyright = "Copyright @ 2021 Ryan Jansen"
 
@@ -28,4 +28,3 @@ disableKinds=["taxnomy"]
   # https://gohugo.io/templates/internal#open-graph.
   images = ["images/share.png"]
 
-  title = "Ryan Jansen | CS Student"

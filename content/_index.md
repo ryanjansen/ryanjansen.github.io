@@ -1,15 +1,14 @@
 # Hi, I'm Ryan
 
----
-
-## Welcome to my site
-
-I'm Ryan Jansen, future CS Student at NUS. I talk about life, studying and other boring stuff like that. You can check out my [github](https://www.github.com/ryanjansen)
-
----
+I'm a computer science student at the National University of Singapore.  I enjoy playing my piano, reading books, working out and very occassionaly, writing code :)
 
 ## What I'm Doing Now
 
-I am currently working at [Nodeflair](https://www.nodeflair.com), a tech career superapp that helps developers code() where they love. I work with ruby on rails and helped them build up their salaries product recently which provides accurate salary data on tech roles in Singapore.
+I am currently interning at [Nodeflair](https://www.nodeflair.com), helping them to build a tech career superapp for developers. I work with ruby on rails and helped them build up their salaries product recently which provides accurate salary data on tech roles in Singapore.
 
-You can email me at ryan@ryanjansen.me to get in touch. 
+
+## Get in touch 
+
+Check out my [github](https://www.github.com/ryanjansen), or my [linkedin](https://www.linkedin.com/in/ryan-jansen-adf3s).
+
+Email me at ryan@ryanjansen.me.

@@ -1,8 +1,0 @@
-#! /bin/sh
-USER=ryan
-HOST=128.199.244.122
-DIR=ryansblog/public
-
-hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
-
-exit 0
