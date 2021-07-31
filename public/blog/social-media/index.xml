@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Ryan Jansen</title>
-    <link>https://ryanjansen.me/blog/</link>
-    <description>Recent content in Blog on Ryan Jansen</description>
+    <title>social media on Ryan Jansen</title>
+    <link>https://ryanjansen.me/blog/social-media/</link>
+    <description>Recent content in social media on Ryan Jansen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright @ 2021 Ryan Jansen</copyright>
-    <lastBuildDate>Sat, 31 Jul 2021 22:50:04 +0800</lastBuildDate><atom:link href="https://ryanjansen.me/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://ryanjansen.me/test/</link>
-      <pubDate>Sat, 31 Jul 2021 22:50:04 +0800</pubDate>
-      
-      <guid>https://ryanjansen.me/test/</guid>
-      <description>This is a page about »Test«.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 31 Jul 2021 22:50:04 +0800</lastBuildDate><atom:link href="https://ryanjansen.me/blog/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I don&#39;t use social media</title>
       <link>https://ryanjansen.me/why-i-dont-use-social-media/</link>

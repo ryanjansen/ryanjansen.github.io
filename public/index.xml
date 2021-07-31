@@ -6,7 +6,27 @@
     <description>Recent content on Ryan Jansen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright @ 2021 Ryan Jansen</copyright><atom:link href="https://ryanjansen.me/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright @ 2021 Ryan Jansen</copyright>
+    <lastBuildDate>Sat, 31 Jul 2021 22:50:04 +0800</lastBuildDate><atom:link href="https://ryanjansen.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://ryanjansen.me/test/</link>
+      <pubDate>Sat, 31 Jul 2021 22:50:04 +0800</pubDate>
+      
+      <guid>https://ryanjansen.me/test/</guid>
+      <description>This is a page about »Test«.</description>
+    </item>
+    
+    <item>
+      <title>Why I don&#39;t use social media</title>
+      <link>https://ryanjansen.me/why-i-dont-use-social-media/</link>
+      <pubDate>Sat, 31 Jul 2021 22:50:04 +0800</pubDate>
+      
+      <guid>https://ryanjansen.me/why-i-dont-use-social-media/</guid>
+      <description>Most people of my generation use social media. On any train or bus ride, take a look around you. I bet that the majority will be scrolling through instagram or facebook. For most of us, it is a part of our daily lives.
+I am one of the minority that does not use social media. There are many reasons why I don&amp;rsquo;t do so, and I would like to briefly explain them in this post.</description>
+    </item>
+    
     <item>
       <title>Projects</title>
       <link>https://ryanjansen.me/projects/</link>
