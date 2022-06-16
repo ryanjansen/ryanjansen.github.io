@@ -7,14 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright @ 2021 Ryan Jansen</copyright>
-    <lastBuildDate>Sat, 31 Jul 2021 22:50:04 +0800</lastBuildDate><atom:link href="https://ryanjansen.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 19:00:14 +0800</lastBuildDate><atom:link href="https://ryanjansen.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://ryanjansen.me/test/</link>
-      <pubDate>Sat, 31 Jul 2021 22:50:04 +0800</pubDate>
+      <title>Semester Reflections</title>
+      <link>https://ryanjansen.me/semester-reflections/</link>
+      <pubDate>Sun, 07 Nov 2021 19:00:14 +0800</pubDate>
       
-      <guid>https://ryanjansen.me/test/</guid>
-      <description>This is a page about »Test«.</description>
+      <guid>https://ryanjansen.me/semester-reflections/</guid>
+      <description>Semester Reflections The first semester of university has flown by and is coming to an end soon. I would like to take some time to reflect on my experience, as well as keep a log of sorts of what I&amp;rsquo;ve been doing during the semester 12 weeks seems to be a long time in theory, but it&amp;rsquo;s gone in a flash in reality. I wonder if this is what the rest of uni life will be like.</description>
+    </item>
+    
+    <item>
+      <title>On Improvement</title>
+      <link>https://ryanjansen.me/on-improvement/</link>
+      <pubDate>Wed, 08 Sep 2021 22:30:11 +0800</pubDate>
+      
+      <guid>https://ryanjansen.me/on-improvement/</guid>
+      <description>I want to improve. I&amp;rsquo;m sure many of us have thought that to ourselves at one point. Sucking at something is a universal experience, after all. And yet, how often have we seen this thought through to the end? How often have we pushed ourselves to the limit, constantly reaching, but never grasping that level of mastery or ability that we wish for? I can&amp;rsquo;t imagine that most of us do.</description>
+    </item>
+    
+    <item>
+      <title>The Beginning of the Beginning</title>
+      <link>https://ryanjansen.me/the-beginning-of-the-beginning/</link>
+      <pubDate>Sun, 22 Aug 2021 21:35:29 +0800</pubDate>
+      
+      <guid>https://ryanjansen.me/the-beginning-of-the-beginning/</guid>
+      <description>Starting something new is scary. We are creatures of habit, and anything that wrenches us outside of our comfy shell can feel terrifying, or at least unsettling. That was how I felt two weeks ago when I began my university life. Unsettled. That feeling of possibility laced with anxiety reminded me of a similar time six months earlier when I began my first internship at NodeFlair. Or 2 years ago when I began my national service in the police force.</description>
     </item>
     
     <item>
@@ -35,6 +53,15 @@ I am one of the minority that does not use social media. There are many reasons 
       <guid>https://ryanjansen.me/projects/</guid>
       <description>Projects This page contains all my personal and work projects. Most of them you can find at my github.
 Pumpshock Workout Tracker Investing Dum Dums React Tic Tac Toe Household Telegram Bot </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ryanjansen.me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanjansen.me/</guid>
+      <description>So it&amp;rsquo;s been a week since I&amp;rsquo;ve returned from TMC, or technical mountaineering course. I&amp;rsquo;m still processing what happened during the trip. Because so much happened that I wasn&amp;rsquo;t prepared for. On one hand it was an amazing experience. How often do you get to stand on the top of a 5800m mountain? And on the other it was a tiring, draining slog to simply reach the starting point. Here is my experience of the whole trip.</description>
     </item>
     
     <item>
