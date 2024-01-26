@@ -2,7 +2,7 @@ backend:
   name: github
   repo: ryanjansen/ryanjansen.github.io
   branch: main
-media-folder: "static/images/uploads"
+media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
