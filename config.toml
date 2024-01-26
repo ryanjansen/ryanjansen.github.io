@@ -1,4 +1,4 @@
-baseURL = "https://stingray-app-zqcen.ondigitalocean.app/"
+baseURL = "https://ryanjansen.github.io/"
 languageCode = "en-us"
 
 theme = 'hugo-bearblog'
