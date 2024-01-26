@@ -1,11 +1,11 @@
-baseURL = "https://ryanjansen.me/"
+baseURL = "https://stingray-app-zqcen.ondigitalocean.app/"
 languageCode = "en-us"
 
 theme = 'hugo-bearblog'
 
 title = "Ryan Jansen"
 author = "Ryan Jansen"
-copyright = "Copyright @ 2021 Ryan Jansen"
+copyright = "Copyright @ 2024 Ryan Jansen"
 
 enableRobotsTXT = true
 

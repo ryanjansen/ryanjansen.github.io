@@ -7,11 +7,3 @@ menu: "main"
 
 This page contains all my personal and work projects. Most of them you can find at my [github](www.github.com/ryanjansen). 
 
-## Pumpshock Workout Tracker
-
-## Investing Dum Dums 
-
-## React Tic Tac Toe
-
-## Household Telegram Bot
-
