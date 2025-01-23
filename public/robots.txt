@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://ryanjansen.me/sitemap.xml
+Sitemap: https://ryanjansen.github.io/sitemap.xml
