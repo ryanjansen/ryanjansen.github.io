@@ -1,6 +1,6 @@
 # Hi, I'm Ryan
 
-I'm a year 4 computer science student at the National University of Singapore. I 
+I'm a year 4 computer science student at the National University of Singapore. I love mountaineering, playing the piano, reading and watching films and playing board games.
 
 ## Currently Reading
 
