@@ -9,7 +9,7 @@ I'm a year 4 computer science student at the National University of Singapore. I
 
 ## Read this year
 
-1. Norweigien Wood by Haruki Murakami
+1. Norwegian Wood by Haruki Murakami
 2. A Tale for the Time Being by Ruth Ozeki
 3. To Live by Yu Hua
 4. The Lonesome Bodybuilder by Yukiko Moyota
