@@ -6,34 +6,33 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="shortcut icon" href="http://localhost:1313/images/favicon.png" />
-<title>Categories | Ryan Jansen</title>
-<meta name="title" content="Categories" />
-<meta name="description" content="The website of Ryan Jansen, current undergraduate CS Student at NUS." />
-<meta name="keywords" content="social media,university," />
+<title>Books | Ryan Jansen</title>
+<meta name="title" content="Books" />
+<meta name="description" content="The books that I&#39;ve read" />
+<meta name="keywords" content="" />
 
 
-<meta property="og:url" content="http://localhost:1313/categories/">
+<meta property="og:url" content="http://localhost:1313/books/">
   <meta property="og:site_name" content="Ryan Jansen">
-  <meta property="og:title" content="Categories">
-  <meta property="og:description" content="The website of Ryan Jansen, current undergraduate CS Student at NUS.">
+  <meta property="og:title" content="Books">
+  <meta property="og:description" content="The books that I&#39;ve read">
   <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
 
 
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Categories">
-  <meta name="twitter:description" content="The website of Ryan Jansen, current undergraduate CS Student at NUS.">
+  <meta name="twitter:title" content="Books">
+  <meta name="twitter:description" content="The books that I&#39;ve read">
 
 
 
 
-  <meta itemprop="name" content="Categories">
-  <meta itemprop="description" content="The website of Ryan Jansen, current undergraduate CS Student at NUS.">
+  <meta itemprop="name" content="Books">
+  <meta itemprop="description" content="The books that I&#39;ve read">
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
-  <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/categories/index.xml" title="Ryan Jansen" />
   <style>
   body {
     font-family: Verdana, sans-serif;
@@ -257,6 +256,23 @@
     .title {
         font-size: 28px;
     }
+   .grid-container {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+          gap: 16px;
+      }
+    .grid-item {
+        text-align: center;
+    }
+    .grid-item img {
+        width: 250px;
+        height: 350px;
+        border-radius: 8px;
+    }
+    .grid-item h3 {
+        margin: 8px 0 0;
+        font-size: 1rem;
+    }
 </style>
 </head>
 
@@ -274,23 +290,52 @@
 </nav>
 </header>
   <main>
-<content>
-  
-  <h3 style="margin-bottom:0">Filtering for "Categories"</h3>
-  <small>
-    <a href="/blog">Remove filter</a>
-  </small>
-  
-  <ul class="blog-posts">
+<h1>Books I've Read in 2025</h1>
+<div class="grid-container">
     
-    <li>
-      No posts yet
-    </li>
+        <div class="grid-item">
+            
+            <img src="/images/norwegian-wood.jpg" alt="Norwegian Wood" loading="lazy">
+            <h3>Norwegian Wood</h3>
+            <p>Haruki Murakami</p>
+        </div>
     
-  </ul>
-  
-  
-</content>
+        <div class="grid-item">
+            
+            <img src="/images/a-tale-for-the-time-being.jpg" alt="A Tale for the Time Being" loading="lazy">
+            <h3>A Tale for the Time Being</h3>
+            <p>Ruth Ozeki</p>
+        </div>
+    
+        <div class="grid-item">
+            
+            <img src="/images/to-live.jpg" alt="To Live" loading="lazy">
+            <h3>To Live</h3>
+            <p>Yu Hua</p>
+        </div>
+    
+        <div class="grid-item">
+            
+            <img src="/images/the-lonesome-bodybuilder.jpg" alt="The Lonesome Bodybuilder" loading="lazy">
+            <h3>The Lonesome Bodybuilder</h3>
+            <p>Yukiko Moyota</p>
+        </div>
+    
+        <div class="grid-item">
+            
+            <img src="/images/all-about-love-new-visions.jpg" alt="All About Love: New Visions" loading="lazy">
+            <h3>All About Love: New Visions</h3>
+            <p>Bell Hooks</p>
+        </div>
+    
+        <div class="grid-item">
+            
+            <img src="/images/the-catcher-in-the-rye.jpg" alt="The Catcher in the Rye" loading="lazy">
+            <h3>The Catcher in the Rye</h3>
+            <p>J.D. Salinger</p>
+        </div>
+    
+</div>
 
   </main>
   <footer>Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>

@@ -9,7 +9,7 @@ copyright = "Copyright @ 2024 Ryan Jansen"
 
 enableRobotsTXT = true
 
-disableKinds=["taxnomy"]
+disableKinds=["taxonomy"]
 [permalinks]
   blog = "/:slug/"
   tags = "/blog/:slug"

@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="shortcut icon" href="https://ryanjansen.github.io/images/favicon.png" />
+<link rel="shortcut icon" href="http://localhost:1313/images/favicon.png" />
 <title>404</title>
 <meta name="title" content="404 Page not found" />
 <meta name="description" content="The website of Ryan Jansen, current undergraduate CS Student at NUS." />
 <meta name="keywords" content="social media,university," />
 
 
-<meta property="og:url" content="https://ryanjansen.github.io/404.html">
+<meta property="og:url" content="http://localhost:1313/404.html">
   <meta property="og:site_name" content="Ryan Jansen">
   <meta property="og:title" content="404 Page not found">
   <meta property="og:description" content="The website of Ryan Jansen, current undergraduate CS Student at NUS.">
@@ -256,6 +256,23 @@
     .title {
         font-size: 28px;
     }
+   .grid-container {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+          gap: 16px;
+      }
+    .grid-item {
+        text-align: center;
+    }
+    .grid-item img {
+        width: 250px;
+        height: 350px;
+        border-radius: 8px;
+    }
+    .grid-item h3 {
+        margin: 8px 0 0;
+        font-size: 1rem;
+    }
 </style>
 </head>
 
@@ -265,9 +282,7 @@
 </a>
 <nav><a href="/">Home</a>
 
-<a href="/computer-science/">Computer Science</a>
-
-<a href="/projects/">Projects</a>
+<a href="/books/">Books</a>
 
 
 <a href="/blog">Blog</a>

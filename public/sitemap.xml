@@ -2,41 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryanjansen.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-01-26T06:36:22+00:00</lastmod>
   </url><url>
-    <loc>https://ryanjansen.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-01-26T06:36:22+00:00</lastmod>
   </url><url>
-    <loc>https://ryanjansen.github.io/on-mountains/</loc>
+    <loc>http://localhost:1313/on-mountains/</loc>
     <lastmod>2024-01-26T06:36:22+00:00</lastmod>
   </url><url>
-    <loc>https://ryanjansen.github.io/semester-reflections/</loc>
+    <loc>http://localhost:1313/semester-reflections/</loc>
     <lastmod>2021-11-07T19:00:14+08:00</lastmod>
   </url><url>
-    <loc>https://ryanjansen.github.io/tags/</loc>
+    <loc>http://localhost:1313/blog/university/</loc>
     <lastmod>2021-11-07T19:00:14+08:00</lastmod>
   </url><url>
-    <loc>https://ryanjansen.github.io/blog/university/</loc>
-    <lastmod>2021-11-07T19:00:14+08:00</lastmod>
-  </url><url>
-    <loc>https://ryanjansen.github.io/on-improvement/</loc>
+    <loc>http://localhost:1313/on-improvement/</loc>
     <lastmod>2021-09-08T22:30:11+08:00</lastmod>
   </url><url>
-    <loc>https://ryanjansen.github.io/the-beginning-of-the-beginning/</loc>
+    <loc>http://localhost:1313/the-beginning-of-the-beginning/</loc>
     <lastmod>2021-08-22T21:35:29+08:00</lastmod>
   </url><url>
-    <loc>https://ryanjansen.github.io/blog/social-media/</loc>
+    <loc>http://localhost:1313/blog/social-media/</loc>
     <lastmod>2021-07-31T22:50:04+08:00</lastmod>
   </url><url>
-    <loc>https://ryanjansen.github.io/why-i-dont-use-social-media/</loc>
+    <loc>http://localhost:1313/why-i-dont-use-social-media/</loc>
     <lastmod>2021-07-31T22:50:04+08:00</lastmod>
   </url><url>
-    <loc>https://ryanjansen.github.io/projects/</loc>
-    <lastmod>2021-05-23T19:58:07+08:00</lastmod>
-  </url><url>
-    <loc>https://ryanjansen.github.io/categories/</loc>
-  </url><url>
-    <loc>https://ryanjansen.github.io/computer-science/</loc>
+    <loc>http://localhost:1313/books/</loc>
   </url>
 </urlset>
