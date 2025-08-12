@@ -1,7 +1,7 @@
+local_backend: true
 backend:
-  name: github
-  repo: ryanjansen/ryanjansen.github.io
-  branch: main
+  name: git-gateway
+  
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
