@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small Thoughts on Ryan Jansen</title>
+    <link>http://localhost:1313/blog/small-thoughts/</link>
+    <description>Recent content in Small Thoughts on Ryan Jansen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright @ 2024 Ryan Jansen</copyright>
+    <lastBuildDate>Tue, 10 Mar 2026 16:14:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/small-thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small Thoughts</title>
+      <link>http://localhost:1313/small-thoughts/</link>
+      <pubDate>Tue, 10 Mar 2026 16:14:08 +0800</pubDate>
+      <guid>http://localhost:1313/small-thoughts/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently been reading small personal blogs and got this idea from Ava over at &amp;lt;blog.avas.space&amp;gt;. I&amp;rsquo;ve been wanting to kickstart my writing off again and thought that a low stake way of doing it would be to record some of my random musings and feelings here first. I would like to build writing into a habit because I&amp;rsquo;ve been inspired by so much good writing recently and lately I&amp;rsquo;ve felt a little tangled up inside and hope that penning my thoughts will illuminate something, maybe.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

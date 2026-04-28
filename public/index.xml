@@ -2,60 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Jansen</title>
-    <link>http://localhost:38231/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ryan Jansen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright @ 2024 Ryan Jansen</copyright>
-    <lastBuildDate>Mon, 02 Feb 2026 20:20:11 +0800</lastBuildDate>
-    <atom:link href="http://localhost:38231/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consistency</title>
+      <link>http://localhost:1313/consistency/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/consistency/</guid>
+      <description>&lt;p&gt;I have trouble being consistent. I stop things halfway. I don&amp;rsquo;t follow a plan that I made. I step forward only to jerk back, dancing back and forth on the road of progress. Am I being too harsh? Is consistency the most important thing? What does it mean to progress and where does it lead to? These are all questions that I find myself grappling with now.&lt;/p&gt;&#xA;&lt;p&gt;My job search is still ongoing. Day in and day out, sending applications is definitely a sort of consistency, the kind that wears you down. Compared to that, the consistency of writing, piano playing and exercise or climbing is all much more pleasurable. And yet, the former is deemed as necessary and essential and the rest as optional.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Small Thoughts</title>
+      <link>http://localhost:1313/small-thoughts/</link>
+      <pubDate>Tue, 10 Mar 2026 16:14:08 +0800</pubDate>
+      <guid>http://localhost:1313/small-thoughts/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently been reading small personal blogs and got this idea from Ava over at &amp;lt;blog.avas.space&amp;gt;. I&amp;rsquo;ve been wanting to kickstart my writing off again and thought that a low stake way of doing it would be to record some of my random musings and feelings here first. I would like to build writing into a habit because I&amp;rsquo;ve been inspired by so much good writing recently and lately I&amp;rsquo;ve felt a little tangled up inside and hope that penning my thoughts will illuminate something, maybe.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>On unemployment</title>
-      <link>http://localhost:38231/on-unemployment/</link>
+      <link>http://localhost:1313/on-unemployment/</link>
       <pubDate>Mon, 02 Feb 2026 20:20:11 +0800</pubDate>
-      <guid>http://localhost:38231/on-unemployment/</guid>
+      <guid>http://localhost:1313/on-unemployment/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s intersting how we describe employment and its opposite state, unemployment. Why not freedom and unfreemdom instead? I jest. It&amp;rsquo;s been about 7 months since I begun my stint into the world of unemployment. I&amp;rsquo;m surprised how fast its gone by and also by the slowness at which it moves fast. I went on three trips in the interim, 5 weeks in Europe in July, 10 days in Japan in October and 12 days in Japan (again) in January. The trips felt like conveyer belts, spitting me forward through them and yet leaving behind moments of clear recollection, and the inbetweens were the opposite, slow and plodding yet blending together. I suppose thats how life is sometimes, rushing forward then pulling back, leaving you off balance and unsure which direction you&amp;rsquo;re facing.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>On Mountains</title>
-      <link>http://localhost:38231/on-mountains/</link>
-      <pubDate>Fri, 26 Jan 2024 06:36:22 +0000</pubDate>
-      <guid>http://localhost:38231/on-mountains/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s a picture of a mountain&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:38231/images/uploads/pxl_20250718_131823131.jpg&#34; alt=&#34;Belay&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Semester Reflections</title>
-      <link>http://localhost:38231/semester-reflections/</link>
+      <link>http://localhost:1313/semester-reflections/</link>
       <pubDate>Sun, 07 Nov 2021 19:00:14 +0800</pubDate>
-      <guid>http://localhost:38231/semester-reflections/</guid>
+      <guid>http://localhost:1313/semester-reflections/</guid>
       <description>&lt;h1 id=&#34;semester-reflections&#34;&gt;Semester Reflections&lt;/h1&gt;&#xA;&lt;p&gt;The first semester of university has flown by and is coming to an end soon. I would like to take&#xA;some time to reflect on my experience, as well as keep a log of sorts of what I&amp;rsquo;ve been doing during&#xA;the semester 12 weeks seems to be a long time in theory, but it&amp;rsquo;s gone in a flash in reality. I wonder if this is&#xA;what the rest of uni life will be like. Just a blur of memories.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Improvement</title>
-      <link>http://localhost:38231/on-improvement/</link>
+      <link>http://localhost:1313/on-improvement/</link>
       <pubDate>Wed, 08 Sep 2021 22:30:11 +0800</pubDate>
-      <guid>http://localhost:38231/on-improvement/</guid>
+      <guid>http://localhost:1313/on-improvement/</guid>
       <description>&lt;p&gt;I want to improve. I&amp;rsquo;m sure many of us have thought that to ourselves at one point. Sucking at something is a universal experience, after all. And yet, how often have we seen this thought through to the end? How often have we pushed ourselves to the limit, constantly reaching, but never grasping that level of mastery or ability that we wish for? I can&amp;rsquo;t imagine that most of us do. I don&amp;rsquo;t know if I ever have.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Beginning of the Beginning</title>
-      <link>http://localhost:38231/the-beginning-of-the-beginning/</link>
+      <link>http://localhost:1313/the-beginning-of-the-beginning/</link>
       <pubDate>Sun, 22 Aug 2021 21:35:29 +0800</pubDate>
-      <guid>http://localhost:38231/the-beginning-of-the-beginning/</guid>
+      <guid>http://localhost:1313/the-beginning-of-the-beginning/</guid>
       <description>&lt;p&gt;Starting something new is scary. We are creatures of habit, and anything that wrenches us outside of our comfy shell can feel terrifying, or at least unsettling. That was how I felt two weeks ago when I began my university life. Unsettled. That feeling of possibility laced with anxiety reminded me of a similar time six months earlier when I began my first internship at NodeFlair. Or 2 years ago when I began my national service in the police force. It felt like this marked the start of something significant, a radical change of my lifestyle into that of a student.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why I don&#39;t use social media</title>
-      <link>http://localhost:38231/why-i-dont-use-social-media/</link>
+      <link>http://localhost:1313/why-i-dont-use-social-media/</link>
       <pubDate>Sat, 31 Jul 2021 22:50:04 +0800</pubDate>
-      <guid>http://localhost:38231/why-i-dont-use-social-media/</guid>
+      <guid>http://localhost:1313/why-i-dont-use-social-media/</guid>
       <description>&lt;p&gt;Most people of my generation use social media. On any train or bus ride, take a look around you. I bet that the majority will be scrolling through instagram or facebook. For most of us, it is a part of our daily lives.&lt;/p&gt;&#xA;&lt;p&gt;I am one of the minority that does not use social media. There are many reasons why I don&amp;rsquo;t do so, and I would like to briefly explain them in this post.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Books</title>
-      <link>http://localhost:38231/books/</link>
+      <title>Reading</title>
+      <link>http://localhost:1313/reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:38231/books/</guid>
+      <guid>http://localhost:1313/reading/</guid>
       <description></description>
     </item>
   </channel>

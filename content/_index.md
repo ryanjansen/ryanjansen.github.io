@@ -1,13 +1,13 @@
 # Hi, I'm Ryan
 
-I'm a human being that likes to climb rocks, make music (sometime's with a piano but usually with Spotify), cook vegetables, write code occasionally and spend time with people that I like spending time with. Welcome to my tiny corner of the internet, happy to have you!
+I'm a human being that likes to climb rocks, make music (sometimes with a piano but usually with Spotify), cook vegetables, write code occasionally and spend time with people that I like spending time with. Welcome to my tiny corner of the internet, happy to have you!
 
 ## Now
 
-I'm currently looking for work, and filling my days reading, spending time with my girlfriend, learning how to drive, climbing and piano playing. Recently my flight to Greece (Kalymnos) was cancelled due to the conflict in Iran, and so I've had some free time to fill up (or not). 
+Read 14 books last month woo! Still kinda crazy now that I think about it, although most of the books were short. Still job searching and hoping to find either something here to chill for a bit or, unlikely but would be amazing, to find a job in europe near the mountains. My whole being is aimed towards that so I know that it'll happen eventually but yes I'm impatient for it to happen still.
 
-Recently read Having and Being Had by Eula Biss, in a blitzkreig session of one and a half days. Not quite sure what I think of it yet and I expect that much of it flew over my head but I resonated with the sections on consumerism tinged with a side of helplessness. It matches my lived experience quite nicely.
+Been spending lots of time with friends and its great for my mental health. Best part of having time is to sit with a friend for hours and talk and hang. So good and something I'll really miss once I start work. I should do that more for sure.
 
-Hope to go to filmhouse, the newly ressurected indie cinema after The Projector closed down. Excited to watch No Other Choice by Park Chan-wook, as I liked his previous films Oldboy and The Handmaiden. I expect lots of violence and social commentary, and as its about a man going insane whilst looking for a job I hope to take some kind of sardonic pleasure from it. 
+Last updated: 28 Apr 2026
 
-Last updated: 10 Mar, 2026
+
