@@ -1,5 +1,3 @@
-# Hi, I'm Ryan
-
 I'm a human being that likes to climb rocks, make music (sometimes with a piano but usually with Spotify), cook vegetables, write code occasionally and spend time with people that I like spending time with. Welcome to my tiny corner of the internet, happy to have you!
 
 ## Now
