@@ -2,7 +2,7 @@
 {{ .Content }}
 <h2>Writing</h2>
 <ul class="blog-posts">
-  {{ range (where .Site.RegularPages "Section" "blog") }}
+  {{ range first 5 (where .Site.RegularPages "Section" "blog") }}
   <li>
     <span>
       <i>
